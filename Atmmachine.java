@@ -28,7 +28,7 @@ public class Atmmachine {
                 System.out.println(balance);
                 }
             }
-       else if (inpt==3){
+       else if (inpt==3){ 
         
             
             System.out.println("your balance is :"+ balance);
