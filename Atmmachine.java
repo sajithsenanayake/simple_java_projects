@@ -38,7 +38,7 @@ public class Atmmachine {
             }
    }while(inpt!=4);
    
-     
+      
    System.out.println("you are done!");
     }
     
