@@ -8,7 +8,7 @@ public class Atmmachine {
         Scanner sc=new Scanner(System.in);
         int balance=0;
         int inpt ;
-   do{ 
+   do{
        System.out.println("1=Diposit \t2=withdraw\n3=check balance\t4=end process"); 
        System.out.print("Enter choice ");
        inpt=sc.nextInt();
