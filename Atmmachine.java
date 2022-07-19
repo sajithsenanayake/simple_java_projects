@@ -16,7 +16,7 @@ public class Atmmachine {
             System.out.print("Enter value ");
             balance=sc.nextInt()+balance; 
             System.out.println("your balance is :"+ balance);
-         } 
+         }
         else if(inpt==2){
             System.out.print("Enter value");
             int withdraw=sc.nextInt();
