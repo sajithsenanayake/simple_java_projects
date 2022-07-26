@@ -2,7 +2,7 @@
 package com.mycompany.atmmachine;
 import java.util.*;
 
-public class Atmmachine { 
+public class Atmmachine {
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
