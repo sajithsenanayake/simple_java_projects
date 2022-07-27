@@ -1,4 +1,4 @@
-
+ 
 package com.mycompany.atmmachine;
 import java.util.*;
 
@@ -37,7 +37,7 @@ public class Atmmachine {
            System.out.println("invalid choice");
             }
    }while(inpt!=4);
-   
+    
       
    System.out.println("you are done!");
     }
